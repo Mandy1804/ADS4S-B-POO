@@ -1,4 +1,4 @@
-package com.mandy.festa;
+package com.mandy.festa.model;
 
 import jakarta.persistence.*;
 
